@@ -34,7 +34,7 @@ In our data analysis we have a lot of Exploritory data analysis or EDA. This EDA
 While we had a lot of difficulty raising the preformance with 7 bins, after switching to binary results our precision was able to rise easily. In the end by testing various hyper parameters with SVM, Random Forest and KNN we dound a random forest classifier was able to preform best, with a precision of 85-90%.
 
 ### Visual 5
-![graph5](./images/confusion_matrix.png)
+![graph5](./images/confusion_random.png)
 
 ## Conclusions
 
